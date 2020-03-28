@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">TugasDone</string>
+
+    <string name="nameDepan">Nama Depan</string>
+    <string name="nameBelakang">Nama Belakang</string>
+    <string name="tl">Tempat Lahir</string>
+    <string name="tglL">Tanggal Lahir</string>
+    <string name="almt">Alamat</string>
+
+    <string name="lk">Laki-Laki</string>
+    <string name="pr">Perempuan</string>
+
+    <string name="is">Islam</string>
+    <string name="kris">Kristen</string>
+    <string name="kat">Katolik</string>
+    <string name="hind">Hindu</string>
+    <string name="bud">Buddha</string>
+    <string name="kong">Konghucu</string>
+    <string name="ak">Aliran Kepercayaan</string>
+
+    <string name="tlp">Telepon</string>
+    <string name="email">Email</string>
+    <string name="pw">Password</string>
+    <string name="pw2">Masukan Password Kembali</string>
+
+    /*BUTTON*/
+    <string name="btnBack">KEMBALI</string>
+    <string name="btnRegis">DAFTAR</string>
+
+</resources>
